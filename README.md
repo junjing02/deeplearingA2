@@ -16,3 +16,15 @@
 
 
 ---
+
+## Install before run
+pip install python-levenshtein paddlepaddle paddleocr ultralytics deep-sort-realtime
+
+
+## GitHub Repo Link
+https://github.com/junjing02/deeplearingA2
+
+
+## Demo
+![Demo GIF](./outputvideo/output_video_02.gif)
+
