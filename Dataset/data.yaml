@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['car-plate']
+
+roboflow:
+  workspace: fyp-project-license-plate-recognition
+  project: car-plate-recognition-nhre8
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fyp-project-license-plate-recognition/car-plate-recognition-nhre8/dataset/6
